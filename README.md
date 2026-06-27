@@ -23,6 +23,9 @@ Current blockchains are built for human-to-smart-contract interactions, which ar
 - **Scalable Consensus:** Utilizes a highly optimized BFT consensus mechanism that guarantees finality in milliseconds, crucial for real-time AI decision making.
 - **Interoperability:** Natively bridges across the Canopy ecosystem, allowing agents to fetch data and trigger actions across multiple networks seamlessly.
 
+### 🌳 Powered by Canopy
+**AgentX** is proudly built on and runs under the **Canopy Network** protocol. 
+Canopy is a revolutionary peer-to-peer launchpad for new chains. It utilizes a recursive architecture where chains bootstrap each other into independence, forming an unstoppable web of utility and security. By leveraging Canopy's terminal and core infrastructure, AgentX inherits enterprise-grade security, rapid deployment capabilities, and native cross-chain interoperability from day one.
 ---
 
 # 💎 AGXX Token Utility
