@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AgentX%20Network&fontSize=50&animation=fadeIn" width="100%"/>
+  <br/>
+  <img src="./canopy-logo-white-bg.svg" alt="Canopy Logo" width="250"/>
 </div>
 
 _The Next-Generation Decentralized Infrastructure for Autonomous AI Agents._
