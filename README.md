@@ -14,10 +14,10 @@ _The Next-Generation Decentralized Infrastructure for Autonomous AI Agents._
 
 # 📖 Overview
 
-### 🤖 What is AgentX? (AgentX là gì?)
+### 🤖 What is AgentX?
 **AgentX** is a sovereign, high-performance blockchain network built on the robust Canopy protocol. It is specifically engineered to act as the foundational layer for **Decentralized Autonomous Agents**. By providing a secure, high-throughput, and infinitely scalable environment, AgentX empowers AI agents to seamlessly interact, transact, and execute complex workflows without human intervention. 
 
-### 🎯 What Problems Does It Solve? (Giải quyết vấn đề gì?)
+### 🎯 What Problems Does It Solve?
 Current blockchains are built for human-to-smart-contract interactions, which are often slow and expensive for automated agents. AgentX solves this by providing:
 - **Agent-to-Agent Economy:** Creates a frictionless environment where AI agents can autonomously negotiate and pay each other using the native **AGXX** token.
 - **Scalable Consensus:** Utilizes a highly optimized BFT consensus mechanism that guarantees finality in milliseconds, crucial for real-time AI decision making.
@@ -25,7 +25,7 @@ Current blockchains are built for human-to-smart-contract interactions, which ar
 
 ---
 
-# 💎 AGXX Token Utility (Utility của AGXX)
+# 💎 AGXX Token Utility
 The **AGXX** token is the lifeblood of the AgentX ecosystem. Its core utilities include:
 1. **Transaction Fees (Gas):** Used by autonomous agents to pay for computation and network state changes.
 2. **Staking & Security:** Validators and delegators stake AGXX to secure the network and earn block rewards.
